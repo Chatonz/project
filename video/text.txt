@@ -1,0 +1,15 @@
+错拼：
+1. 原本：Walking forward in an even pace
+    扰动：Warking forward in an even pace
+2. 原本：A human utilizes his right arm to help himself to stand up.
+    扰动：A human utlizes his right arm to help himself to stand up.
+3. 原本：A native motions a quarter of a loop to the right.
+    扰动：A native motinos a quarter of a loop to the right.
+
+缩写：
+1. 原本：A human moves forward
+    扰动：A human mvs forward
+2. 原本：A human slowly walks forward and then stops
+    扰动：A human slowly wks fwd and then stops
+3. 原本：a human boots something or someone with his left leg.
+    扰动：a human boots sth or s.o. with his left leg.
